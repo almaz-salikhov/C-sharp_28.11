@@ -1,0 +1,15 @@
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.deps.json
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.runtimeconfig.json
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/refint/Example001_HelloConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/С#_28.11/Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
