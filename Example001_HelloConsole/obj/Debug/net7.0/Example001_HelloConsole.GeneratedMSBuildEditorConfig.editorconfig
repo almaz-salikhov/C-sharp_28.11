@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example001_HelloConsole
-build_property.ProjectDir = /Users/almazsalikhov/Documents/IT/GitEdu/Введение в языки программирования /C#/С#_28.11/Example001_HelloConsole/
+build_property.ProjectDir = /Users/almazsalikhov/Documents/IT/GitEdu/Введение в языки программирования /C#/С#_28.11_lectures/Example001_HelloConsole/
